@@ -20,6 +20,3 @@ sphinx-rtd-theme>=1.2.0
 ipython>=8.0.0
 ipykernel>=6.20.0
 jupyter>=1.0.0
-
-# Debugging
-python-debugger>=0.1.0
